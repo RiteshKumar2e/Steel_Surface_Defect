@@ -47,20 +47,6 @@
 
 </div>
 
-<details>
-<summary>
-<img src="https://img.shields.io/badge/🎮-Try%20Interactive%20Demo-success?style=for-the-badge" alt="Interactive Demo"/>
-</summary>
-
-```bash
-# Quick start - One line installation and demo
-curl -sSL https://raw.githubusercontent.com/yourusername/amff-cnn-steel-defect/main/quick_demo.sh | bash
-```
-
-</details>
-
----
-
 ## 📑 Table of Contents
 
 <div align="center">
