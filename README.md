@@ -52,15 +52,15 @@ graph TD
     C --> H[Rolled-in Scale]
     C --> I[Scratches]
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e8
-    style E fill:#e8f5e8
-    style F fill:#e8f5e8
-    style G fill:#e8f5e8
-    style H fill:#e8f5e8
-    style I fill:#e8f5e8
+style A fill:#37474f,stroke:#cfd8dc,color:#eceff1
+style B fill:#4527a0,stroke:#d1c4e9,color:#ffffff
+style C fill:#ff8f00,stroke:#ffe0b2,color:#ffffff
+style D fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style E fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style F fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style G fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style H fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style I fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
 ```
 
 </div>
@@ -151,18 +151,15 @@ flowchart TB
     J --> K
     K --> L
     
-    style A fill:#e3f2fd
-    style B fill:#e8f5e8
-    style C fill:#e8f5e8
-    style D fill:#fff3e0
-    style E fill:#fce4ec
-    style F fill:#f3e5f5
-    style G fill:#fff3e0
-    style H fill:#fce4ec
-    style I fill:#f3e5f5
-    style J fill:#e1f5fe
-    style K fill:#e1f5fe
-    style L fill:#e1f5fe
+style A fill:#37474f,stroke:#cfd8dc,color:#eceff1
+style B fill:#4527a0,stroke:#d1c4e9,color:#ffffff
+style C fill:#ff8f00,stroke:#ffe0b2,color:#ffffff
+style D fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style E fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style F fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style G fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style H fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
+style I fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
 ```
 
 ### 🔍 SEAM Module Details
@@ -409,9 +406,9 @@ graph LR
     A -.-> C
     B --> C
     
-    style A fill:#ffcdd2
-    style B fill:#c8e6c9
-    style C fill:#fff9c4
+style A fill:#37474f,stroke:#cfd8dc,color:#eceff1
+style B fill:#4527a0,stroke:#d1c4e9,color:#ffffff
+style C fill:#ff8f00,stroke:#ffe0b2,color:#ffffff
 ```
 
 </div>
