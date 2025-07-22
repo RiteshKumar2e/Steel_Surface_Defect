@@ -1,5 +1,15 @@
+
 # 🔬 AMFF-CNN Steel Surface Defect Detection
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=50&lines=Steel+Surface+Defect+Detection;Advanced+Multi-scale+CNN;98.58%25+Accuracy+Achieved!;Deep+Learning+for+Quality+Control" alt="Typing SVG" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Steel%20Defect-Detection-blue?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Steel Defect Detection"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <div align="center">
 
 ![Steel Defect Detection](https://img.shields.io/badge/Steel%20Defect-Detection-blue?style=for-the-badge&logo=tensorflow&logoColor=white)
