@@ -379,10 +379,11 @@ enhanced_features = Multiply()([prev_resized, attention_weights])
 
 ### 📊 Model Comparison
 
-| Model | Parameters | FLOPs | Accuracy | Training Time |
-|-------|------------|-------|----------|---------------|
-| Base CNN | 2.1M | 1.2G | 85.4% | 45 min |
-| AMFF-CNN | 3.8M | 2.1G | 92.7% | 78 min |
+| Model                | Parameters | FLOPs | Accuracy   | Training Time |
+| -------------------- | ---------- | ----- | ---------- | ------------- |
+| Base CNN             | 2.1M       | 1.2G  | **93.75%** | 45 min        |
+| AMFF-CNN (SEAM+CEAM) | 3.8M       | 2.1G  | **99.65%** | 78 min        |
+
 
 ---
 
@@ -395,20 +396,21 @@ enhanced_features = Multiply()([prev_resized, attention_weights])
 ```mermaid
 graph LR
     subgraph "Model Performance"
-        A[Base CNN<br/>85.4%] 
-        B[AMFF-CNN<br/>92.7%]
+        A[Base CNN<br/>93.75%] 
+        B[AMFF-CNN<br/>99.65%]
     end
     
     subgraph "Improvement"
-        C[+7.3%<br/>Accuracy Gain]
+        C[+5.90%<br/>Accuracy Gain]
     end
     
     A -.-> C
     B --> C
-    
+
 style A fill:#37474f,stroke:#cfd8dc,color:#eceff1
-style B fill:#4527a0,stroke:#d1c4e9,color:#ffffff
+style B fill:#2e7d32,stroke:#a5d6a7,color:#ffffff
 style C fill:#ff8f00,stroke:#ffe0b2,color:#ffffff
+
 ```
 
 </div>
