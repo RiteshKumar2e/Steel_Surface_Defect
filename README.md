@@ -435,9 +435,11 @@ style C fill:#ff8f00,stroke:#ffe0b2,color:#ffffff
 
 The training process shows consistent improvement with AMFF-CNN:
 
-- **Faster Convergence**: AMFF-CNN reaches high accuracy earlier
-- **Better Stability**: Less overfitting compared to base CNN
-- **Higher Final Accuracy**: 92.7% vs 85.4% validation accuracy
+The training process shows **consistent improvement** with **AMFF-CNN**:
+
+- ⚡ **Faster Convergence**: AMFF-CNN reaches high accuracy earlier in training
+- 🛡️ **Better Stability**: Less overfitting compared to Base CNN
+- 🎯 **Higher Final Accuracy**: **99.65% vs 93.75%** validation accuracy — a significant boost of **+5.90%**
 
 ---
 
