@@ -21,7 +21,7 @@
 
 ---
 
-## 🎬 Live Demo & Quick Preview
+## 🎬 Live & Quick Preview
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 <td align="center">
 <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Analysis Animation"/>
 <br>
-<b>🧠 AI Analysis</b>
+<b>🧠 Analysis</b>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250" alt="Results Animation"/>
