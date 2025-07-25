@@ -161,7 +161,8 @@ graph TD
 <table>
 <tr>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/ff6b6b/ffffff?text=🔴" alt="Crazing"/>
+<img src="![crazing_1](https://github.com/user-attachments/assets/b6ae0159-f11b-45da-b13e-20eaa6838ee2)
+" alt="Crazing"/>
 <br>
 <details>
 <summary><b>Crazing</b></summary>
@@ -174,7 +175,8 @@ graph TD
 </details>
 </td>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/ffd93d/ffffff?text=🟡" alt="Inclusion"/>
+<img src="![inclusion_1](https://github.com/user-attachments/assets/762409e9-58d7-44f3-906c-ed635fb9d8b6)
+" alt="Inclusion"/>
 <br>
 <details>
 <summary><b>Inclusion</b></summary>
@@ -187,7 +189,8 @@ graph TD
 </details>
 </td>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/4ecdc4/ffffff?text=🔵" alt="Patches"/>
+<img src="![patches_1](https://github.com/user-attachments/assets/9bbc5ec3-01ba-492e-a75b-ec4beb92f685)
+" alt="Patches"/>
 <br>
 <details>
 <summary><b>Patches</b></summary>
@@ -200,7 +203,8 @@ graph TD
 </details>
 </td>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/ff9f43/ffffff?text=🟠" alt="Pitted"/>
+<img src="![pitted_surface_1](https://github.com/user-attachments/assets/7184ec26-3689-4a18-840d-b37a709d2a4a)
+" alt="Pitted"/>
 <br>
 <details>
 <summary><b>Pitted Surface</b></summary>
@@ -213,7 +217,8 @@ graph TD
 </details>
 </td>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/a55eea/ffffff?text=🟣" alt="Scale"/>
+<img src="![rolled-in_scale_1](https://github.com/user-attachments/assets/8f43c583-7d63-49b8-8cfc-5b5847811332)
+" alt="Scale"/>
 <br>
 <details>
 <summary><b>Rolled-in Scale</b></summary>
@@ -226,7 +231,8 @@ graph TD
 </details>
 </td>
 <td align="center" width="16.66%">
-<img src="https://via.placeholder.com/120x120/26de81/ffffff?text=🟢" alt="Scratches"/>
+<img src="![scratches_1](https://github.com/user-attachments/assets/1fc8d569-c887-438d-97d3-2a2d33220572)
+" alt="Scratches"/>
 <br>
 <details>
 <summary><b>Scratches</b></summary>
